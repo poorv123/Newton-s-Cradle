@@ -1,2 +1,1 @@
-# Newton-s-Cradle
-Created By: Poorv
+# NC27
